@@ -5,8 +5,8 @@ Cheat sheets are sets of _concise graphical and textual explanations_, inspired 
 # By Type
 
 <table>
-   <tr>
-      <td><img style="width:200px; margin-right: 10px;" src="figures/anatomy.png"></td>  
+   <tr width="200px">
+      <td><img style="margin-right: 10px;" src="figures/anatomy.png"></td>  
       <td>## Anatomy 
      Anatomy explains the visual elements of a visualization technique, their composition, their specific terminology, and how they relate to the data. The visual components of a visualization can include individual visual marks as well as groups of marks, axes, locations in a visualization etc.
       </td>

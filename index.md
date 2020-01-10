@@ -1,5 +1,7 @@
 # Cheat Sheets for Visualization Techniques
 
+![](https://img.youtube.com/vi/SfSgIvn-99U/0.jpg)](https://www.youtube.com/watch?v=SfSgIvn-99U)
+
 Cheat sheets are sets of _concise graphical and textual explanations_, inspired by infographics, data comics, and cheat sheets in other domains. Cheat sheets aim to support learning, teaching, and the regular use of both common and novel visualization techniques in a variety of contexts. To design cheat sheets for visualization techniques, we describe six components of a cheat sheet: anatomy, build-up, visual patterns, pitfalls, false-friends, variations. We present examples for several visualization techniques, created through an iterative design process which involved data science and visualization teachers, visual designers and students. In a qualitative and iterative user study, we gather subjective feedback from participants, show readability and usefulness of our cheat sheets, and iterated on their design. We bring this together as a design methodology, with a comprehensive design framework to easily create cheat sheets for additional visualizations. 
 
 # By Type

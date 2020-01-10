@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-logo: "figures/logo-f.png"
+logo: "figures/vischeatsheets-logo.png"
 relative_links:
   enabled: true
   collections: true

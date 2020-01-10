@@ -1,10 +1,10 @@
 # Anatomy
 
 ## Boxplot
-[![](figures/anatomy/boxplot.png)](pdfs/boxplots_anatomy.pdf)
+[![](./figures/anatomy/boxplot.png)](pdfs/boxplots_anatomy.pdf)
 
 ## Confluence Graph
-[![](figures/anatomy/confluence.png)](pdfs/confluence_anatomy.pdf)
+[![](http://visualizationcheatsheets.github.io/figures/anatomy/confluence.png)](pdfs/confluence_anatomy.pdf)
 
 
 ## Adjacency Matrix

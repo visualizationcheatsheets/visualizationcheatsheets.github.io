@@ -4,22 +4,14 @@ Cheat sheets are sets of _concise graphical and textual explanations_, inspired 
 
 # By Type
 
-<table>
-   <tr width="50%">
-      <td><img style="margin-right: 10px;" src="figures/anatomy.png"></td>  
-      <td>
-         <h3>Anatomy</h3> 
-     Anatomy explains the visual elements of a visualization technique, their composition, their specific terminology, and how they relate to the data. The visual components of a visualization can include individual visual marks as well as groups of marks, axes, locations in a visualization etc.
-      </td>
-   </tr>
-   <tr>
-      <td><img style="width: 200px; margin-right: 10px;" src="figures/anatomy.png"></td>  
-      <td>
-      <h3>Construction</h3>
-      
-      </td>
-  </tr>
-</table>  
+## Anatomy
+
+![](figures/anatomy.png)
+Anatomy explains the visual elements of a visualization technique, their composition, their specific terminology, and how they relate to the data. The visual components of a visualization can include individual visual marks as well as groups of marks, axes, locations in a visualization etc.
+
+## Construction
+![](figures/constuction.png)
+A Construction explains the conceptual idea behind a visualization design and how a visualization is encoding data. We chose that term to highlight the step-wise explanation used to understand a visual mapping, i.e. the transformation from data to visualization. The goal of the construction, on the other side, are twofold: (a) to provide a procedural explanation of a visualization design, (b) to deliver a blue-print for how to explain the visualization to a larger audience. 
 
 
 # By Visualization

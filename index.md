@@ -6,35 +6,28 @@ Cheat sheets are sets of _concise graphical and textual explanations_, inspired 
 
 # By Type
 
-## Anatomy
+## [Anatomy](anatomy.html)
 
 ![](figures/anatomy.png)
 Anatomy explains the visual elements of a visualization technique, their composition, their specific terminology, and how they relate to the data. The visual components of a visualization can include individual visual marks as well as groups of marks, axes, locations in a visualization etc.
 
-## Construction
+## [Construction](construction.html)
 ![](figures/construction.png)
 A Construction explains the conceptual idea behind a visualization design and how a visualization is encoding data. We chose that term to highlight the step-wise explanation used to understand a visual mapping, i.e. the transformation from data to visualization. The goal of the construction, on the other side, are twofold: (a) to provide a procedural explanation of a visualization design, (b) to deliver a blue-print for how to explain the visualization to a larger audience. 
 
-## Visual Patterns
+## [Visual Patterns](visualpatterns.png)
 ![](figures/visualpatterns.png)
 Visual patternssheet provide a catalogue of meaningful patterns visible in a visualization. Patterns are key in correctly interpreting visualizations and makingdiscoveries.  A visual pattern can be any sort of configuration inthe visualization with a specific meaning.
 
-## Pitfalls 
+## [Pitfalls](pitfalls.html)
 ![](figures/pitfals.png)
 Pitfalls show possible misinterpretations of a visualization. While there is a long list of technique independent pitfalls.
 
-## Well-known Relative
+## [Well-known Relative](relativ.html)
 ![](figures/relative.png)
 The “well-known relative” relates an unknown visualization to a more familiar one used to visualize the same data.
 
-## False Friends
+## [False Friends](falsefriends.html)
 ![](figures/falsefriends.png)
 False-friendslists visualization techniques that are visually similar but functionally different. For example, boxplots share visualsimilarities with candlestick charts and error bars in bar chars; parallel coordinates can look similar to line charts, time curvescan look similar to connected scatter plots.
 
-# By Visualization
-<a href=""><img src="figures/boxplot.png" width="300px"/></a>
-<a href=""><img src="figures/confluentgraph.png" width="300px"/></a>
-<a href=""><img src="figures/matrix.png" width="300px"/></a>
-<a href=""><img src="figures/pcp.png" width="300px"/></a>
-<a href=""><img src="figures/timecurve.png" width="300px"/></a>
-<a href=""><img src="figures/treemap.png" width="300px"/></a>

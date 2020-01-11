@@ -1,5 +1,8 @@
 # Tree maps
 
+[Download all (PDF + PNG)](pfds/treemap-all.zip)
+
+
 [![](figures/anatomy/treemap.png)](pdfs/treemap_anatomy.pdf)
 [![](figures/construction/treemap.png)](pdfs/treemap_construction.pdf)
 [![](figures/introduction/treemap.png)](pdfs/treemap_introduction.pdf)

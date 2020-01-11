@@ -1,5 +1,8 @@
 # Boxplot
 
+[Download all PDF + PNG](pfds/boxplot-all.zip)
+
+
 [![](figures/anatomy/boxplot.png)](pdfs/boxplot_anatomy.pdf)
 [![](figures/construction/boxplot.png)](pdfs/boxplot_construction.pdf)
 [![](figures/introduction/boxplot.png)](pdfs/boxplot_introduction.pdf)

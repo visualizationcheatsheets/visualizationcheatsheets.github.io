@@ -1,5 +1,7 @@
 # Adjacency Matrix
 
+[Download all PDF + PNG](pfds/matrix-all.zip)
+
 [![](figures/anatomy/matrix.png)](pdfs/matrix_anatomy.pdf)
 [![](figures/construction/matrix.png)](pdfs/matrix_construction.pdf)
 [![](figures/introduction/matrix.png)](pdfs/matrix_introduction.pdf)

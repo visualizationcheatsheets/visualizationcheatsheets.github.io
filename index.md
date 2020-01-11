@@ -20,10 +20,10 @@ A Construction explains the conceptual idea behind a visualization design and ho
 Visual patternssheet provide a catalogue of meaningful patterns visible in a visualization. Patterns are key in correctly interpreting visualizations and makingdiscoveries.  A visual pattern can be any sort of configuration inthe visualization with a specific meaning.
 
 ## [Pitfalls](pitfalls.html)
-![](figures/pitfals.png)
+![](figures/pitfalls.png)
 Pitfalls show possible misinterpretations of a visualization. While there is a long list of technique independent pitfalls.
 
-## [Well-known Relative](relativ.html)
+## [Well-known Relative](relative.html)
 ![](figures/relative.png)
 The “well-known relative” relates an unknown visualization to a more familiar one used to visualize the same data.
 

@@ -1,6 +1,6 @@
 # Introductions
 
-[![](figures/introduction/boxplot.png)](pdfs/boxplots_introduction.pdf)
+[![](figures/introduction/boxplot.png)](pdfs/boxplot_introduction.pdf)
 
 [![](figures/introduction/confluence.png)](pdfs/confluence_introduction.pdf)
 

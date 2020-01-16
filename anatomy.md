@@ -1,6 +1,6 @@
 # Anatomy
 
-[![](figures/anatomy/boxplot.png)](pdfs/boxplots_anatomy.pdf)
+[![](figures/anatomy/boxplot.png)](pdfs/boxplot_anatomy.pdf)
 
 [![](figures/anatomy/confluence.png)](pdfs/confluence_anatomy.pdf)
 

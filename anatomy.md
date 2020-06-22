@@ -6,7 +6,7 @@
 
 [![](figures/anatomy/matrix.png)](pdfs/matrix_anatomy.pdf)
 
-[![](figures/anatomy/pcp.png)](pdfs/pcp_anatomy.pdf)
+[![](figures/anatomy/pcp.png)](pdfs/PCP_anatomy.pdf)
 
 [![](figures/anatomy/timecurve.png)](pdfs/timecurve_anatomy.pdf)
 

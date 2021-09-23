@@ -15,7 +15,7 @@ Anatomy explains the visual elements of a visualization technique, their composi
 ![](figures/construction.png)
 A Construction explains the conceptual idea behind a visualization design and how a visualization is encoding data. We chose that term to highlight the step-wise explanation used to understand a visual mapping, i.e. the transformation from data to visualization. The goal of the construction, on the other side, are twofold: (a) to provide a procedural explanation of a visualization design, (b) to deliver a blue-print for how to explain the visualization to a larger audience. 
 
-## [Visual Patterns](visualpatterns.png)
+## [Visual Patterns](visualpatterns.html)
 ![](figures/visualpatterns.png)
 Visual patternssheet provide a catalogue of meaningful patterns visible in a visualization. Patterns are key in correctly interpreting visualizations and makingdiscoveries.  A visual pattern can be any sort of configuration inthe visualization with a specific meaning.
 

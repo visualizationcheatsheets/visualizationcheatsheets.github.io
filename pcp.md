@@ -1,6 +1,6 @@
 # Parallel Coordinates Plots (PCP)
 
-[Download all PDF + PNG](pfds/pcp-all.zip)
+[Download all PDF + PNG](pdfs/pcp-all.zip)
 
 [![](figures/anatomy/pcp.png)](pdfs/PCP_anatomy.pdf)
 [![](figures/construction/pcp.png)](pdfs/PCP_construction.pdf)

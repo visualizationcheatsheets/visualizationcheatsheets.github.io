@@ -1,6 +1,6 @@
 # Time curve
 
-[Download all PDF+PNG](pfds/timecurve-all.zip)
+[Download all PDF+PNG](pdfs/timecurve-all.zip)
 
 [![](figures/anatomy/timecurve.png)](pdfs/timecurve_anatomy.pdf)
 [![](figures/construction/timecurve.png)](pdfs/timecurve-construction.pdf)

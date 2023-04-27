@@ -1,6 +1,6 @@
 # Confluence Graphs
 
-[Download all PDF + PNG](pfds/confluence-all.zip)
+[Download all PDF + PNG](pdfs/confluence-all.zip)
 
 [![](figures/anatomy/confluence.png)](pdfs/confluence_anatomy.pdf)
 [![](figures/construction/confluence.png)](pdfs/confluence_construction.pdf)

@@ -1,6 +1,6 @@
 # Boxplot
 
-[Download all PDF + PNG](pfds/boxplot-all.zip)
+[Download all PDF + PNG](pdfs/boxplot-all.zip)
 
 
 [![](figures/anatomy/boxplot.png)](pdfs/boxplot_anatomy.pdf)
